@@ -4,7 +4,8 @@
   "description": "Twitter virus that produces haikus",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:" "haiku.js"
+    "test": "echo \"Er,ror: no test specified\" && exit 1"
   },
   "keywords": [
     "haiku",
